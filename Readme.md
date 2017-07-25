@@ -14,10 +14,10 @@ It was created by ©YUKIJI
 ©YUKIJI Machiko rabbit
 IG: https://www.instagram.com/machiko324/
 
-怎麼換Skin:
-1.把MachikoRabbit資料夾拿到Launchy路徑下的skins資料夾
-2.開啟Launchy->Settings->Skin->選擇MachikoRabbit 完成
-3.融化 >///<
+怎麼換Skin: 
+1.把MachikoRabbit資料夾拿到Launchy路徑下的skins資料夾 
+2.開啟Launchy->Settings->Skin->選擇MachikoRabbit 完成 
+3.融化 >///< 
 
 HOW TO INSTALL:
 1. copy the theme to folder launchy>skins
