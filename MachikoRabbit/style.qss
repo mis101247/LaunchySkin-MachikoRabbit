@@ -1,0 +1,65 @@
+
+#output {
+	font:  13px Microsoft JhengHei;
+	color: white;
+}
+
+QLineEdit#input {
+	font:  18px Microsoft JhengHei;
+	border-width: 0px;
+	background-color: rgba(0,244,120,0%);
+	border-style: solid;
+	color: #DCE8E8;
+}
+QLineEdit#output {
+	font:  12px  Microsoft JhengHei;
+	border-width: 0px;
+	background-color: rgba(0,244,120,0%);
+	border-style: solid;
+	color: #50dcff;
+	text-align: left;
+}
+
+
+QListWidget#alternatives {
+	font:  12px "Microsoft JhengHei";
+	color: black;
+	border-style: solid;
+	border-width: 0px;
+}
+
+QScrollBar#altScroll:vertical {
+	image: url(skins/MachikoRabbit/scroller-back.png); 
+    width: 16px; 
+    margin: 16px 0px 16px 0px; 
+} 
+ 
+QScrollBar#altScroll::handle:vertical {
+background: #c3def3;
+
+}
+
+
+QScrollBar#altScroll::sub-line:vertical {
+    width: 16px;
+    height: 16px;
+    subcontrol-position: top;
+    subcontrol-origin: margin; 
+    image: url(skins/MachikoRabbit/scrollUp.png); 	
+}
+
+QScrollBar#altScroll::add-page:vertical {
+    background: url(skins/MachikoRabbit/scrollBack.png);
+}
+
+QScrollBar#altScroll::sub-page:vertical {
+    background: url(skins/MachikoRabbit/scrollBack.png); 	
+}
+
+QScrollBar#altScroll::add-line:vertical { 
+    width: 16px;
+    height: 16px; 
+    subcontrol-position: bottom;
+    subcontrol-origin: margin;        
+    image: url(skins/MachikoRabbit/scrollDown.png);
+}
