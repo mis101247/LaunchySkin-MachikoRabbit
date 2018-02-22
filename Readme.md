@@ -1,4 +1,4 @@
-﻿ㄇㄚˊ幾兔skin (version 1.0) for Launchy (v. 2.0)
+﻿ㄇㄚˊ幾兔skin (version 1.0) for Launchy (v2.0 and before v.2.6)
 
 by Keyo - 2017/07/20
 
