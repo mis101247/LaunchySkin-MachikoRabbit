@@ -1,4 +1,4 @@
-﻿ㄇㄚˊ幾兔skin (version 1.0) for Launchy (v2.0 and before v.2.6)
+ㄇㄚˊ幾兔skin (version 1.0) for Launchy (v2.0 and before v.2.6)
 
 by Keyo - 2017/07/20
 
@@ -23,3 +23,6 @@ HOW TO INSTALL:
 1. copy the theme to folder launchy>skins
 2. change the theme via settings
 3. Sweet >///<
+
+DEMO:
+![](https://i.imgur.com/JhP3D5v.png)
